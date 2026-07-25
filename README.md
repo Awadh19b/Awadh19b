@@ -54,11 +54,3 @@ I'm working toward a **data engineering / data analytics role**. and I'm always 
  
 ---
  
-### 📫 Let's Connect
- 
-<p align="left">
-  <a href="mailto:alahmadywork@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/awadh-ba-odhah-65b448207/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Awadh19b"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-<p align="center"><i>Thanks for stopping by — always happy to connect with fellow data/CS people!</i></p>
