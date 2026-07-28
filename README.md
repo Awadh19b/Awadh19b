@@ -37,16 +37,6 @@ I'm a Computer Science student at the **University of Nyíregyháza**, Hungary, 
 </p>
 ---
  
-### 📊 GitHub Stats
- 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Awadh19b&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awadh19b&layout=compact&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Awadh19b&hide_border=true" alt="streak stats"/>
-</p>
----
  
 ### 🎯 What I'm Aiming For
  
