@@ -15,10 +15,8 @@
 
 ### 🧭 ABOUT
 
-I love data. The messier it is, the better: I like the moment when a pile of
-rows turns into something structured, and then into an answer someone can
-actually use. I'm a Computer Science student at the **University of
-Nyíregyháza**, heading toward a career in **data engineering and analytics**.
+ I'm a Computer Science student at the **University of
+Nyíregyháza**, heading toward a career in **data**.
 
 ---
 
@@ -44,19 +42,12 @@ Nyíregyháza**, heading toward a career in **data engineering and analytics**.
   <img src="https://img.shields.io/badge/Java%20(learning)-F3EAD8?style=for-the-badge&logo=openjdk&logoColor=1A1A1A" />
 </p>
 
----
 
-### 🎯 WHAT I'M AFTER
-
-A **data engineering / data analytics** role or internship, plus good
-conversations and collaborations about data.
-
----
 
 ### 📬 SAY HELLO
 
 <p align="left">
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/PORTFOLIO-E4572E?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://Awadh19b.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-E4572E?style=for-the-badge&logoColor=white" /></a>
   <a href="https://linkedin.com/in/awadh-ba-odhah-65b448207"><img src="https://img.shields.io/badge/LINKEDIN-F3EAD8?style=for-the-badge&logo=linkedin&logoColor=1A1A1A" /></a>
   <a href="mailto:alahmadywork@gmail.com"><img src="https://img.shields.io/badge/EMAIL-F3EAD8?style=for-the-badge&logo=gmail&logoColor=1A1A1A" /></a>
 </p>
